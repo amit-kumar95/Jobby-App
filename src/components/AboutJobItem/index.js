@@ -143,7 +143,7 @@ class AboutJobItem extends Component {
             <hr className="item-hr-line" />
             <div className="second-part-container">
               <div className="description-visit-container">
-                <h1 className="description-job-heading">Description</h1>
+                <h1 className="description-job-heading">Description item</h1>
                 <a className="visit-anchor" href={companyWebsiteUrl}>
                   Visit <BiLinkExternal />
                 </a>
